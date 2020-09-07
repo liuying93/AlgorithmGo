@@ -1,0 +1,2 @@
+# AlgorithmGo
+start from scratch
