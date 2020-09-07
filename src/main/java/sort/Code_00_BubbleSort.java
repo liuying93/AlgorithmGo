@@ -3,7 +3,7 @@ package main.java.sort;
 /**
  * 冒泡排序
  *
- * @Author: liuying
+ * @Author: liuy
  * @Date: 2020/9/7 10:51
  * @Description:
  */
