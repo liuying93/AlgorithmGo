@@ -38,7 +38,6 @@ public class Code_03_MergeSort {
         while (p1 <= mid) {
             help[i++] = arr[p1++];
         }
-
         while (p2 <= R) {
             help[i++] = arr[p2++];
         }
