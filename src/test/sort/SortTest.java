@@ -1,7 +1,5 @@
 package test.sort;
 
-import main.java.sort.Code_03_MergeSort;
-
 import java.util.Arrays;
 
 /**
@@ -17,7 +15,7 @@ public class SortTest {
         /*Code_00_BubbleSort.bubbleSort(arr);*/
         /*Code_01_SelectionSort.selectionSort(arr);*/
         /*Code_02_InsertSort.InsetSert(arr);*/
-        Code_03_MergeSort.mergeSort(arr);
+        /*Code_03_MergeSort.mergeSort(arr);*/
         Arrays.stream(arr).forEach(e -> System.out.print(e + ","));
     }
 
