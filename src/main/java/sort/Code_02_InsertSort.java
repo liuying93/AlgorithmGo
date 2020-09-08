@@ -21,6 +21,10 @@ public class Code_02_InsertSort {
         }
     }
 
+    /**
+     * 此用法是有陷阱的，若i == 就，则结果都会变成0
+     * 所以使用前提是 i <> j
+     */
     private static void swap(int[] arr, int i, int j) {
         arr[i] = arr[i] ^ arr[j];
         arr[j] = arr[i] ^ arr[j];
