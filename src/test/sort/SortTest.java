@@ -17,6 +17,7 @@ public class SortTest {
         /*Code_02_InsertSort.InsetSert(arr);*/
         /*Code_03_MergeSort.mergeSort(arr);*/
         /*Code_04_QuickSort.quickSort(arr);*/
+        /*Code_05_HeapSort.heapSort(arr);*/
         Arrays.stream(arr).forEach(e -> System.out.print(e + ","));
     }
 
