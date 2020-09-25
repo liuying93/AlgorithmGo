@@ -60,5 +60,4 @@ public class Code_20200925_ReverseList {
             this.value = data;
         }
     }
-
 }
