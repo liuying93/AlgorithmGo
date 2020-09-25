@@ -56,7 +56,7 @@ public class Code_20200925_ReverseList {
         DoubleNode next;
         DoubleNode prev;
 
-        public Node(int data) {
+        public DoubleNode(int data) {
             this.value = data;
         }
     }
